@@ -16,8 +16,8 @@ id: Congo, Rep.
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Congo~Brazzaville//
-markerFolder: ./Congo~Brazzaville//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Congo, Rep.] 
