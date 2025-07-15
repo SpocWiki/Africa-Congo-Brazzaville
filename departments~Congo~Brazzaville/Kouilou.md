@@ -40,11 +40,18 @@ markerFolder: ./Kouilou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou|Kouilou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.public|Kouilou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.internal|Kouilou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.protect|Kouilou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.private|Kouilou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.personal|Kouilou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.secret|Kouilou.secret]] 
+
+### #is_/same_as :: [Kouilou](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Kouilou.md) 
+
+### #is_/same_as :: [Kouilou.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Kouilou.public.md) 
+
+### #is_/same_as :: [Kouilou.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Kouilou.internal.md) 
+
+### #is_/same_as :: [Kouilou.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Kouilou.protect.md) 
+
+### #is_/same_as :: [Kouilou.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Kouilou.private.md) 
+
+### #is_/same_as :: [Kouilou.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Kouilou.personal.md) 
+
+### #is_/same_as :: [Kouilou.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Kouilou.secret.md)
 

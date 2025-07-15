@@ -40,11 +40,18 @@ markerFolder: ./Pointe_Noire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire|Pointe_Noire]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.public|Pointe_Noire.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.internal|Pointe_Noire.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.protect|Pointe_Noire.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.private|Pointe_Noire.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.personal|Pointe_Noire.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.secret|Pointe_Noire.secret]] 
+
+### #is_/same_as :: [Pointe_Noire](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.md) 
+
+### #is_/same_as :: [Pointe_Noire.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.public.md) 
+
+### #is_/same_as :: [Pointe_Noire.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.internal.md) 
+
+### #is_/same_as :: [Pointe_Noire.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.protect.md) 
+
+### #is_/same_as :: [Pointe_Noire.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.private.md) 
+
+### #is_/same_as :: [Pointe_Noire.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.personal.md) 
+
+### #is_/same_as :: [Pointe_Noire.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.secret.md)
 

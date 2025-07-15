@@ -40,11 +40,18 @@ markerFolder: ./Niari/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari|Niari]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.public|Niari.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.internal|Niari.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.protect|Niari.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.private|Niari.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.personal|Niari.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.secret|Niari.secret]] 
+
+### #is_/same_as :: [Niari](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Niari.md) 
+
+### #is_/same_as :: [Niari.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Niari.public.md) 
+
+### #is_/same_as :: [Niari.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Niari.internal.md) 
+
+### #is_/same_as :: [Niari.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Niari.protect.md) 
+
+### #is_/same_as :: [Niari.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Niari.private.md) 
+
+### #is_/same_as :: [Niari.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Niari.personal.md) 
+
+### #is_/same_as :: [Niari.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Niari.secret.md)
 

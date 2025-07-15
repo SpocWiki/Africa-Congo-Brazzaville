@@ -40,11 +40,18 @@ markerFolder: ./Pool/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool|Pool]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.public|Pool.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.internal|Pool.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.protect|Pool.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.private|Pool.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.personal|Pool.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.secret|Pool.secret]] 
+
+### #is_/same_as :: [Pool](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pool.md) 
+
+### #is_/same_as :: [Pool.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pool.public.md) 
+
+### #is_/same_as :: [Pool.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pool.internal.md) 
+
+### #is_/same_as :: [Pool.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pool.protect.md) 
+
+### #is_/same_as :: [Pool.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pool.private.md) 
+
+### #is_/same_as :: [Pool.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pool.personal.md) 
+
+### #is_/same_as :: [Pool.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pool.secret.md)
 

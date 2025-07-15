@@ -40,11 +40,18 @@ markerFolder: ./Likouala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala|Likouala]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.public|Likouala.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.internal|Likouala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.protect|Likouala.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.private|Likouala.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.personal|Likouala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.secret|Likouala.secret]] 
+
+### #is_/same_as :: [Likouala](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Likouala.md) 
+
+### #is_/same_as :: [Likouala.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Likouala.public.md) 
+
+### #is_/same_as :: [Likouala.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Likouala.internal.md) 
+
+### #is_/same_as :: [Likouala.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Likouala.protect.md) 
+
+### #is_/same_as :: [Likouala.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Likouala.private.md) 
+
+### #is_/same_as :: [Likouala.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Likouala.personal.md) 
+
+### #is_/same_as :: [Likouala.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Likouala.secret.md)
 

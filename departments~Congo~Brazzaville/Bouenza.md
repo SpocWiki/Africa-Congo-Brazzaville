@@ -40,11 +40,18 @@ markerFolder: ./Bouenza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza|Bouenza]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.public|Bouenza.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.internal|Bouenza.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.protect|Bouenza.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.private|Bouenza.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.personal|Bouenza.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.secret|Bouenza.secret]] 
+
+### #is_/same_as :: [Bouenza](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Bouenza.md) 
+
+### #is_/same_as :: [Bouenza.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Bouenza.public.md) 
+
+### #is_/same_as :: [Bouenza.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Bouenza.internal.md) 
+
+### #is_/same_as :: [Bouenza.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Bouenza.protect.md) 
+
+### #is_/same_as :: [Bouenza.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Bouenza.private.md) 
+
+### #is_/same_as :: [Bouenza.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Bouenza.personal.md) 
+
+### #is_/same_as :: [Bouenza.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Bouenza.secret.md)
 

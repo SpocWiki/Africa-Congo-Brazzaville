@@ -40,11 +40,18 @@ markerFolder: ./Plateaux/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux|Plateaux]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.public|Plateaux.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.internal|Plateaux.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.protect|Plateaux.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.private|Plateaux.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.personal|Plateaux.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.secret|Plateaux.secret]] 
+
+### #is_/same_as :: [Plateaux](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Plateaux.md) 
+
+### #is_/same_as :: [Plateaux.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Plateaux.public.md) 
+
+### #is_/same_as :: [Plateaux.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Plateaux.internal.md) 
+
+### #is_/same_as :: [Plateaux.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Plateaux.protect.md) 
+
+### #is_/same_as :: [Plateaux.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Plateaux.private.md) 
+
+### #is_/same_as :: [Plateaux.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Plateaux.personal.md) 
+
+### #is_/same_as :: [Plateaux.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Plateaux.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Cuvette/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette|Cuvette]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.public|Cuvette.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.internal|Cuvette.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.protect|Cuvette.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.private|Cuvette.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.personal|Cuvette.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.secret|Cuvette.secret]] 
+
+### #is_/same_as :: [Cuvette](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette.md) 
+
+### #is_/same_as :: [Cuvette.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette.public.md) 
+
+### #is_/same_as :: [Cuvette.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette.internal.md) 
+
+### #is_/same_as :: [Cuvette.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette.protect.md) 
+
+### #is_/same_as :: [Cuvette.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette.private.md) 
+
+### #is_/same_as :: [Cuvette.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette.personal.md) 
+
+### #is_/same_as :: [Cuvette.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette.secret.md)
 

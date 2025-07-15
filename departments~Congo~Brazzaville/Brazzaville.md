@@ -40,11 +40,18 @@ markerFolder: ./Brazzaville/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville|Brazzaville]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.public|Brazzaville.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.internal|Brazzaville.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.protect|Brazzaville.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.private|Brazzaville.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.personal|Brazzaville.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.secret|Brazzaville.secret]] 
+
+### #is_/same_as :: [Brazzaville](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville.md) 
+
+### #is_/same_as :: [Brazzaville.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville.public.md) 
+
+### #is_/same_as :: [Brazzaville.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville.internal.md) 
+
+### #is_/same_as :: [Brazzaville.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville.protect.md) 
+
+### #is_/same_as :: [Brazzaville.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville.private.md) 
+
+### #is_/same_as :: [Brazzaville.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville.personal.md) 
+
+### #is_/same_as :: [Brazzaville.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville.secret.md)
 

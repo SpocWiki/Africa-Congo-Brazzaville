@@ -40,11 +40,18 @@ markerFolder: ./Cuvette-Ouest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest|Cuvette-Ouest]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.public|Cuvette-Ouest.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.internal|Cuvette-Ouest.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.protect|Cuvette-Ouest.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.private|Cuvette-Ouest.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.personal|Cuvette-Ouest.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.secret|Cuvette-Ouest.secret]] 
+
+### #is_/same_as :: [Cuvette-Ouest](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.md) 
+
+### #is_/same_as :: [Cuvette-Ouest.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.public.md) 
+
+### #is_/same_as :: [Cuvette-Ouest.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.internal.md) 
+
+### #is_/same_as :: [Cuvette-Ouest.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.protect.md) 
+
+### #is_/same_as :: [Cuvette-Ouest.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.private.md) 
+
+### #is_/same_as :: [Cuvette-Ouest.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.personal.md) 
+
+### #is_/same_as :: [Cuvette-Ouest.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.secret.md)
 

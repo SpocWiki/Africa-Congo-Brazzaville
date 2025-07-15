@@ -40,10 +40,4 @@ Capital ::  [[Congo~Rep/City/Brazzaville]] ]
 
 
 
-## Confidential Links & Embeds: 
-- [[Congo~Brazzaville|Congo~Brazzaville]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~Central/Congo~Brazzaville.internal|Congo~Brazzaville.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~Central/Congo~Brazzaville.protect|Congo~Brazzaville.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Congo~Brazzaville.private|Congo~Brazzaville.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Congo~Brazzaville.personal|Congo~Brazzaville.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Congo~Brazzaville.secret|Congo~Brazzaville.secret]] 
+

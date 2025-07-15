@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville|Brazzaville]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.public|Brazzaville.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.internal|Brazzaville.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.protect|Brazzaville.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.private|Brazzaville.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.personal|Brazzaville.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.secret|Brazzaville.secret]] 
+
+### #is_/same_as :: [Brazzaville](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville/City/Brazzaville.md) 
+
+### #is_/same_as :: [Brazzaville.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville/City/Brazzaville.public.md) 
+
+### #is_/same_as :: [Brazzaville.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville/City/Brazzaville.internal.md) 
+
+### #is_/same_as :: [Brazzaville.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville/City/Brazzaville.protect.md) 
+
+### #is_/same_as :: [Brazzaville.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville/City/Brazzaville.private.md) 
+
+### #is_/same_as :: [Brazzaville.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville/City/Brazzaville.personal.md) 
+
+### #is_/same_as :: [Brazzaville.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville/City/Brazzaville.secret.md)
+

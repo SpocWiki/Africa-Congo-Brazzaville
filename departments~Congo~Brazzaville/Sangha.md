@@ -40,11 +40,18 @@ markerFolder: ./Sangha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha|Sangha]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.public|Sangha.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.internal|Sangha.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.protect|Sangha.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.private|Sangha.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.personal|Sangha.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.secret|Sangha.secret]] 
+
+### #is_/same_as :: [Sangha](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Sangha.md) 
+
+### #is_/same_as :: [Sangha.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Sangha.public.md) 
+
+### #is_/same_as :: [Sangha.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Sangha.internal.md) 
+
+### #is_/same_as :: [Sangha.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Sangha.protect.md) 
+
+### #is_/same_as :: [Sangha.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Sangha.private.md) 
+
+### #is_/same_as :: [Sangha.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Sangha.personal.md) 
+
+### #is_/same_as :: [Sangha.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Sangha.secret.md)
 

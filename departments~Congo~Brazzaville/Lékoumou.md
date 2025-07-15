@@ -40,11 +40,18 @@ markerFolder: ./Lékoumou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou|Lékoumou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.public|Lékoumou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.internal|Lékoumou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.protect|Lékoumou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.private|Lékoumou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.personal|Lékoumou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.secret|Lékoumou.secret]] 
+
+### #is_/same_as :: [Lékoumou](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.md) 
+
+### #is_/same_as :: [Lékoumou.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.public.md) 
+
+### #is_/same_as :: [Lékoumou.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.internal.md) 
+
+### #is_/same_as :: [Lékoumou.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.protect.md) 
+
+### #is_/same_as :: [Lékoumou.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.private.md) 
+
+### #is_/same_as :: [Lékoumou.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.personal.md) 
+
+### #is_/same_as :: [Lékoumou.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.secret.md)
 
