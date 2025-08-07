@@ -125,19 +125,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brazzaville) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brazzaville,City](Brazzaville,City.md) 
+### #is_/same_as :: [Brazzaville,City](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department/counties~Brazzaville/Brazzaville-county/Brazzaville,City.md) 
 
-### #is_/same_as :: [Brazzaville.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville/City/Brazzaville.public.md) 
+### #is_/same_as :: [Brazzaville,City.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department/counties~Brazzaville/Brazzaville-county/Brazzaville,City.public.md) 
 
-### #is_/same_as :: [Brazzaville.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville/City/Brazzaville.internal.md) 
+### #is_/same_as :: [Brazzaville,City.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department/counties~Brazzaville/Brazzaville-county/Brazzaville,City.internal.md) 
 
-### #is_/same_as :: [Brazzaville.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville/City/Brazzaville.protect.md) 
+### #is_/same_as :: [Brazzaville,City.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department/counties~Brazzaville/Brazzaville-county/Brazzaville,City.protect.md) 
 
-### #is_/same_as :: [Brazzaville.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville/City/Brazzaville.private.md) 
+### #is_/same_as :: [Brazzaville,City.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department/counties~Brazzaville/Brazzaville-county/Brazzaville,City.private.md) 
 
-### #is_/same_as :: [Brazzaville.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville/City/Brazzaville.personal.md) 
+### #is_/same_as :: [Brazzaville,City.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department/counties~Brazzaville/Brazzaville-county/Brazzaville,City.personal.md) 
 
-### #is_/same_as :: [Brazzaville.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville/City/Brazzaville.secret.md)
+### #is_/same_as :: [Brazzaville,City.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department/counties~Brazzaville/Brazzaville-county/Brazzaville,City.secret.md)
 
