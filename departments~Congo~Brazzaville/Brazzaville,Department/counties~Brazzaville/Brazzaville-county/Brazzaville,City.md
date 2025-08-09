@@ -22,48 +22,48 @@ demonym:
   - brazzavilloise
   - Brazzavilloise
 located_in_the_administrative_territorial_entity:
-  - "[[db/French_Equatorial_Africa]]"
-  - "[[db/Republic_of_the_Congo]]"
+  - "[[_Standards/WikiData/WD~French_Equatorial_Africa,271894]]"
+  - "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
 capital_of:
-  - "[[db/French_Equatorial_Africa]]"
-  - "[[db/People's_Republic_of_the_Congo]]"
-  - "[[db/Free_French_Africa]]"
-  - "[[db/Republic_of_the_Congo]]"
-named_after: "[[db/Pierre_Savorgnan_de_Brazza]]"
-founded_by: "[[db/Pierre_Savorgnan_de_Brazza]]"
+  - "[[_Standards/WikiData/WD~French_Equatorial_Africa,271894]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_the_Congo,1152126]]"
+  - "[[_Standards/WikiData/WD~Free_French_Africa,64223761]]"
+  - "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
+named_after: "[[_Standards/WikiData/WD~Pierre_Savorgnan_de_Brazza,319834]]"
+founded_by: "[[_Standards/WikiData/WD~Pierre_Savorgnan_de_Brazza,319834]]"
 twinned_administrative_body:
-  - "[[db/Weihai]]"
-  - "[[db/Dresden]]"
-  - "[[db/Rabat]]"
-  - "[[db/Nouakchott]]"
-  - "[[db/Dakar]]"
-  - "[[db/Kinshasa]]"
-  - "[[db/Windhoek]]"
-  - "[[db/Reims]]"
-described_by_source: "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
+  - "[[_Standards/WikiData/WD~Weihai,373023]]"
+  - "[[_Standards/WikiData/WD~Dresden,1731]]"
+  - "[[_Standards/WikiData/WD~Rabat,3551]]"
+  - "[[_Standards/WikiData/WD~Nouakchott,3688]]"
+  - "[[_Standards/WikiData/WD~Dakar,3718]]"
+  - "[[_Standards/WikiData/WD~Kinshasa,3838]]"
+  - "[[_Standards/WikiData/WD~Windhoek,3935]]"
+  - "[[_Standards/WikiData/WD~Reims,41876]]"
+described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 instance_of:
-  - "[[db/border_city]]"
-  - "[[db/big_city]]"
-  - "[[db/commune_of_the_Republic_of_the_Congo]]"
-  - "[[db/city]]"
-member_of: "[[db/Creative_Cities_Network]]"
+  - "[[_Standards/WikiData/WD~border_city,902814]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~commune_of_the_Republic_of_the_Congo,5154054]]"
+  - "[[_Standards/WikiData/WD~city,515]]"
+member_of: "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
 language_used:
-  - "[[db/East_Teke]]"
-  - "[[db/Beembe]]"
-  - "[[db/Kituba_(Congo)]]"
-  - "[[db/Kituba]]"
-  - "[[db/Lingala]]"
-  - "[[db/Fuumu]]"
-different_from: "[[db/Brazzaville]]"
-head_of_government: "[[db/Dieudonné_Bantsimba]]"
+  - "[[_Standards/WikiData/WD~East_Teke,2802914]]"
+  - "[[_Standards/WikiData/WD~Beembe,3196320]]"
+  - "[[_Standards/WikiData/WD~Kituba_(Congo),12953639]]"
+  - "[[_Standards/WikiData/WD~Kituba,35746]]"
+  - "[[_Standards/WikiData/WD~Lingala,36217]]"
+  - "[[_Standards/WikiData/WD~Fuumu,36603]]"
+different_from: "[[_Standards/WikiData/WD~Brazzaville,31896818]]"
+head_of_government: "[[_Standards/WikiData/WD~Dieudonné_Bantsimba,95920204]]"
 coordinate_location: Point(15.271111111 -4.269444444)
 inception: 1880-09-10T00:00:00Z
 time_of_earliest_written_record: 1880-01-01T00:00:00Z
-country: "[[db/Republic_of_the_Congo]]"
-located_in_or_next_to_body_of_water: "[[db/Congo]]"
-shares_border_with: "[[db/Kinshasa]]"
-located_in_time_zone: "[[db/UTC+01_00]]"
-official_language: "[[db/French]]"
+country: "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Congo,3503]]"
+shares_border_with: "[[_Standards/WikiData/WD~Kinshasa,3838]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+official_language: "[[_Standards/WikiData/WD~French,150]]"
 elevation_above_sea_level: 320
 area: 588
 local_dialing_code: "242"
@@ -86,6 +86,7 @@ P8189: "987007548090205171"
 X_Twitter_username: Brazzaville_Cg
 Facebook_username: brazzaville.cg
 UN_LOCODE: CGBZV
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Brazzaville,48781010]]"
 ---
 
 # [[Brazzaville,City]] 
