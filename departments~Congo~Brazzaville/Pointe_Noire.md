@@ -1,30 +1,29 @@
 ---
-location: [ -4.83 , 11.88 ] 
+location:
+  - -4.83
+  - 11.88
 type: geo-Region
 title: Pointe_Noire
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Pointe_Noire
-
+  - Pointe_Noire
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Pointe_Noire
