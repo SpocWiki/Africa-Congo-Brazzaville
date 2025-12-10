@@ -26,15 +26,17 @@ publishDate:
 expiryDate:
 ---
 
-# Likouala
+# [[Likouala]]
 
 ```leaflet
 id: Likouala
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Likouala/
-markerFolder: ./Likouala/
+geojsonFolder: ./Likouala//
+markerFolder: ./Likouala//
+coordinates: [[Likouala]] 
+markerFile: [[Likouala]] 
 ```
 
 
