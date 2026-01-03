@@ -40,17 +40,17 @@ markerFolder: ./Pointe_Noire/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pointe_Noire](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire|Pointe_Noire]] 
 
-### #is_/same_as :: [Pointe_Noire.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.public|Pointe_Noire.public]] 
 
-### #is_/same_as :: [Pointe_Noire.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.internal|Pointe_Noire.internal]] 
 
-### #is_/same_as :: [Pointe_Noire.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.protect|Pointe_Noire.protect]] 
 
-### #is_/same_as :: [Pointe_Noire.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.private|Pointe_Noire.private]] 
 
-### #is_/same_as :: [Pointe_Noire.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.personal|Pointe_Noire.personal]] 
 
-### #is_/same_as :: [Pointe_Noire.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Pointe_Noire.secret|Pointe_Noire.secret]] 
 

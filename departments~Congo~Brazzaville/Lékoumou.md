@@ -40,17 +40,17 @@ markerFolder: ./Lékoumou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lékoumou](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou|Lékoumou]] 
 
-### #is_/same_as :: [Lékoumou.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.public|Lékoumou.public]] 
 
-### #is_/same_as :: [Lékoumou.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.internal|Lékoumou.internal]] 
 
-### #is_/same_as :: [Lékoumou.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.protect|Lékoumou.protect]] 
 
-### #is_/same_as :: [Lékoumou.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.private|Lékoumou.private]] 
 
-### #is_/same_as :: [Lékoumou.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.personal|Lékoumou.personal]] 
 
-### #is_/same_as :: [Lékoumou.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Lékoumou.secret|Lékoumou.secret]] 
 

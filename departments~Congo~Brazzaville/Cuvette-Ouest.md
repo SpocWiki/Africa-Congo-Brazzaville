@@ -40,17 +40,17 @@ markerFolder: ./Cuvette-Ouest/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cuvette-Ouest](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest|Cuvette-Ouest]] 
 
-### #is_/same_as :: [Cuvette-Ouest.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.public|Cuvette-Ouest.public]] 
 
-### #is_/same_as :: [Cuvette-Ouest.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.internal|Cuvette-Ouest.internal]] 
 
-### #is_/same_as :: [Cuvette-Ouest.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.protect|Cuvette-Ouest.protect]] 
 
-### #is_/same_as :: [Cuvette-Ouest.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.private|Cuvette-Ouest.private]] 
 
-### #is_/same_as :: [Cuvette-Ouest.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.personal|Cuvette-Ouest.personal]] 
 
-### #is_/same_as :: [Cuvette-Ouest.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Cuvette-Ouest.secret|Cuvette-Ouest.secret]] 
 

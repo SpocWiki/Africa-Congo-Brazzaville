@@ -43,17 +43,17 @@ markerFolder: ./Brazzaville,Department/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brazzaville,Department](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department|Brazzaville,Department]] 
 
-### #is_/same_as :: [Brazzaville,Department.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department.public|Brazzaville,Department.public]] 
 
-### #is_/same_as :: [Brazzaville,Department.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department.internal|Brazzaville,Department.internal]] 
 
-### #is_/same_as :: [Brazzaville,Department.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department.protect|Brazzaville,Department.protect]] 
 
-### #is_/same_as :: [Brazzaville,Department.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department.private|Brazzaville,Department.private]] 
 
-### #is_/same_as :: [Brazzaville,Department.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department.personal|Brazzaville,Department.personal]] 
 
-### #is_/same_as :: [Brazzaville,Department.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Brazzaville,Department.secret|Brazzaville,Department.secret]] 
 

@@ -69,3 +69,21 @@ Commons_category: Ubangi
 > Thereafter, it forms the boundary between the DRC and the Republic of Congo until it empties into the Congo River.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ubangi%20River)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Likouala/Ubangi_River|Ubangi_River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Likouala/Ubangi_River.public|Ubangi_River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Likouala/Ubangi_River.internal|Ubangi_River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Likouala/Ubangi_River.protect|Ubangi_River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Likouala/Ubangi_River.private|Ubangi_River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Likouala/Ubangi_River.personal|Ubangi_River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/departments~Congo~Brazzaville/Likouala/Ubangi_River.secret|Ubangi_River.secret]] 
+

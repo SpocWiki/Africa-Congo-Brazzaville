@@ -41,17 +41,17 @@ Capital ::  [[Congo~Rep/City/Brazzaville]] ]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ReadMe](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/ReadMe|ReadMe]] 
 
-### #is_/same_as :: [ReadMe.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/ReadMe.public|ReadMe.public]] 
 
-### #is_/same_as :: [ReadMe.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/ReadMe.internal|ReadMe.internal]] 
 
-### #is_/same_as :: [ReadMe.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/ReadMe.protect|ReadMe.protect]] 
 
-### #is_/same_as :: [ReadMe.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/ReadMe.private|ReadMe.private]] 
 
-### #is_/same_as :: [ReadMe.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/ReadMe.personal|ReadMe.personal]] 
 
-### #is_/same_as :: [ReadMe.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville/ReadMe.secret|ReadMe.secret]] 
 
