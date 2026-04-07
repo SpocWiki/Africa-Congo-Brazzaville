@@ -26,7 +26,7 @@ markerFolder: .//
 [Area-Land::0] 
 Continent :: [[Africa]]  
 [VehicleCode::RCB] 
-Capital ::  [[Congo~Rep/City/Brazzaville]] ] 
+Capital ::  [[Congo~Rep/City/Brazzaville|Brazzaville]] ] 
 
 ![[Coat_of_arms_of_the_Republic_of_the_Congo.svg|350]] 
 

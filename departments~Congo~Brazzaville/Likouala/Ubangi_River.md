@@ -10,26 +10,26 @@ coordinate_location:
   - Point(22.435277777 4.123055555)
   - Point(17.708333333 -0.510833333)
 tributary:
-  - "[[_Standards/WikiData/WD~Uele,171436]]"
-  - "[[_Standards/WikiData/WD~Mbomou_River,171440]]"
-  - "[[_Standards/WikiData/WD~Lobaye_River,1610446]]"
-  - "[[_Standards/WikiData/WD~Kotto_River,1781597]]"
-  - "[[_Standards/WikiData/WD~River_Ouaka,2041610]]"
-  - "[[_Standards/WikiData/WD~Lua,3264588]]"
-  - "[[_Standards/WikiData/WD~Mpoko_River,3327129]]"
-  - "[[_Standards/WikiData/WD~Ngiri_River,4783195]]"
+  - "[[_Standards/WikiData/WD~Uele,171436|WD~Uele,171436]]"
+  - "[[_Standards/WikiData/WD~Mbomou_River,171440|WD~Mbomou_River,171440]]"
+  - "[[_Standards/WikiData/WD~Lobaye_River,1610446|WD~Lobaye_River,1610446]]"
+  - "[[_Standards/WikiData/WD~Kotto_River,1781597|WD~Kotto_River,1781597]]"
+  - "[[_Standards/WikiData/WD~River_Ouaka,2041610|WD~River_Ouaka,2041610]]"
+  - "[[_Standards/WikiData/WD~Lua,3264588|WD~Lua,3264588]]"
+  - "[[_Standards/WikiData/WD~Mpoko_River,3327129|WD~Mpoko_River,3327129]]"
+  - "[[_Standards/WikiData/WD~Ngiri_River,4783195|WD~Ngiri_River,4783195]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-drainage_basin: "[[_Standards/WikiData/WD~Congo_Basin,932289]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+drainage_basin: "[[_Standards/WikiData/WD~Congo_Basin,932289|WD~Congo_Basin,932289]]"
 country:
-  - "[[_Standards/WikiData/WD~Central_African_Republic,929]]"
-  - "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
-  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Congo,3503]]"
-instance_of: "[[_Standards/WikiData/WD~river,4022]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+  - "[[_Standards/WikiData/WD~Central_African_Republic,929|WD~Central_African_Republic,929]]"
+  - "[[_Standards/WikiData/WD~Republic_of_the_Congo,971|WD~Republic_of_the_Congo,971]]"
+  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Congo,3503|WD~Congo,3503]]"
+instance_of: "[[_Standards/WikiData/WD~river,4022|WD~river,4022]]"
+continent: "[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]"
 length: 1060
 elevation_above_sea_level: 335
 discharge: 5936
@@ -43,8 +43,8 @@ Commons_category: Ubangi
 
 #is_/same_as :: [[WD~Ubangi_River,171649]] 
 
-[[Central_African_Rep/prefectures~Central_African_Rep/Lobaye/River~Ubangi.geoJson]]
-[[Ubangi_River/River~Ubangi1.geojson]] 
+[[Central_African_Rep/prefectures~Central_African_Rep/Lobaye/River~Ubangi.geoJson|River~Ubangi.geoJson]]
+[[Ubangi_River/River~Ubangi1.geojson|River~Ubangi1.geojson]] 
 
 ## #has_/text_of_/abstract 
 
