@@ -38,7 +38,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Brazzaville,Department/
 markerFolder: ./Brazzaville,Department/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

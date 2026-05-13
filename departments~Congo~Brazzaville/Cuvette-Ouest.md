@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Cuvette-Ouest/
 markerFolder: ./Cuvette-Ouest/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Pointe_Noire/
 markerFolder: ./Pointe_Noire/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
