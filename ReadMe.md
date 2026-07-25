@@ -528,7 +528,7 @@ dv_ISO2: CG
 dv_ISO3: COG
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Republic_of_the_Congo,971|WD~Republic_of_the_Congo,971]]'
+  - '[[../../../../../WikiData/WD~Republic_of_the_Congo,971|WD~Republic_of_the_Congo,971]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville|Congo~Brazzaville]]'
   - '[[/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.public|Congo~Brazzaville.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.internal|Congo~Brazzaville.internal]]'
@@ -823,15 +823,15 @@ dv_has_name_en: Congo, Rep.
 dv_has_name_de: Kongo
 dv_Area-Total: 342000
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: RCB
 dv_Alcohol-l: 4.2
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 15.2833
 dv_has_place_latitude: -4.26667
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Republic_of_the_Congo,971|WD~Republic_of_the_Congo,971]]'
+- '[[../../../../../WikiData/WD~Republic_of_the_Congo,971|WD~Republic_of_the_Congo,971]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville|Congo~Brazzaville]]'
 - '[[/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.public|Congo~Brazzaville.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.internal|Congo~Brazzaville.internal]]'
@@ -855,7 +855,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Congo~Brazzaville/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -874,7 +874,7 @@ markerFile: [[Congo~Brazzaville]]
 
 ```leaflet
 id: Congo~Brazzaville_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -898,11 +898,11 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital ::  [[Congo~Rep/City/Brazzaville|Brazzaville]] ] 
+Capital ::  [[../Congo~Rep/City/Brazzaville|Brazzaville]] ] 
 
 ![[Coat_of_arms_of_the_Republic_of_the_Congo.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Congo.mp3|Anthem-Congo.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Congo.mp3|Anthem-Congo.mp3]]
 
 ![[Flag_of_the_Republic_of_the_Congo.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
